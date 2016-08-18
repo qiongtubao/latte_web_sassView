@@ -1,13 +1,13 @@
 {
-	"name": "latte_web_sass",
+	"name": "latte_web_sassView",
 	"version": "0.0.1",
-	"description": "latte_web_sass",
-	"keywords": ["latte_web_sass"],
+	"description": "latte_web_sassView",
+	"keywords": ["latte_web_sassView"],
 	"author": "qiongtubao",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url":"https://github.com/qiongtubao/latte_web_sass.git"
+		"url":"https://github.com/qiongtubao/latte_web_sassView.git"
 	}	,
 	"dependencies": {
 		
