@@ -10,6 +10,6 @@
 		"url":"https://github.com/qiongtubao/latte_web_sassView.git"
 	}	,
 	"dependencies": {
-		
+		"node-sass": "*"
 	}
 }
